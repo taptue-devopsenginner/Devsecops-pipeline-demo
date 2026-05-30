@@ -1,0 +1,3 @@
+my_secret=123456qwerty
+aws_access_key=KIADSFM24242
+aws_secret_key=FPOFJIJOIJFOIEWJOR342R783RHEF
